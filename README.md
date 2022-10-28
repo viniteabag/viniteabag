@@ -14,3 +14,5 @@
   
 ![viniteabag´s GitHub stats](https://github-readme-stats.vercel.app/api?username=viniteabag&count_private=true&count_private=true&show_icons=true&theme=merko&include_all_commits&layout=compact)
 
+![Snake animation](https://github.com/viniteabag/viniteabag/blob/output/github-contribution-grid-snake.svg)
+
